@@ -16,7 +16,7 @@
  ## Projects
  I've worked on a variety of projects throughout my career. Here are a few of the highlights:
  1. [LeaderFactor](https://leaderfactor.app)
-    LeaderFactor is the premere leadership training platform for enterprises. I've lead the development of leaderfactor.app from `git init` to where it is today.
+    LeaderFactor is the premier leadership training platform for enterprises. I've lead the development of leaderfactor.app from `git init` to where it is today.
  2. [1 of X](https://web.archive.org/web/20230327061512/https://1ofx.net/)
     1 of X was a side project to scratch an itch. I like generative art and ran a NFT marketplace on polygon during the post-covid crypto craze.
 3. [Skipio](https://app.skipio.com)

@@ -1,7 +1,5 @@
 > [!NOTE]
-> # 👋 Hey
-> 
-> I'm **Ryan Allred**. I'm currently CTO at [LeaderFactor](https://leaderfactor.com), a company dedicated to building leaders around the world. We work with some of the largest household brands to create actionable road-maps for their leadership population. It's a small company, and I've been privileged to wear many hats including: Frontend, Backend, Design, and more.
+> # 👋 Hey, I'm Ryan
 >
 > In my spare time I speak at meetups here in Lehi, Utah. Here are a couple of my favorite demos:
 > 1. [A simple chat app](https://github.com/Synvox/remix-chat-sse)
@@ -16,7 +14,7 @@
  ## Projects
  I've worked on a variety of projects throughout my career. Here are a few of the highlights:
  1. [LeaderFactor](https://leaderfactor.app)
-    LeaderFactor is the premier leadership training platform for enterprises. I've lead the development of leaderfactor.app from `git init` to where it is today.
+    I'm served as CTO at [LeaderFactor](https://leaderfactor.com), a company dedicated to building leaders around the world. We work with some of the largest household brands to create actionable road-maps for their leadership population. It's a small company, and I wore many hats including: Frontend, Backend, Design, and more.
  2. [1 of X](https://web.archive.org/web/20230327061512/https://1ofx.net/)
     1 of X was a side project to scratch an itch. I like generative art and ran a NFT marketplace on polygon during the post-covid crypto craze.
 3. [Skipio](https://app.skipio.com)

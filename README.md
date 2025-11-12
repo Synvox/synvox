@@ -14,7 +14,7 @@
  ## Projects
  I've worked on a variety of projects throughout my career. Here are a few of the highlights:
  1. [LeaderFactor](https://leaderfactor.app)
-    I'm served as CTO at [LeaderFactor](https://leaderfactor.com), a company dedicated to building leaders around the world. We work with some of the largest household brands to create actionable road-maps for their leadership population. It's a small company, and I wore many hats including: Frontend, Backend, Design, and more.
+    I served as CTO at [LeaderFactor](https://leaderfactor.com), a company dedicated to building leaders around the world. LeaderFactor works with some of the largest household brands to create actionable road-maps for their leadership population. It's a small company, and I wore many hats including: Frontend, Backend, Design, and more.
  2. [1 of X](https://web.archive.org/web/20230327061512/https://1ofx.net/)
     1 of X was a side project to scratch an itch. I like generative art and ran a NFT marketplace on polygon during the post-covid crypto craze.
 3. [Skipio](https://app.skipio.com)

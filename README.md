@@ -29,3 +29,6 @@
  Although most of my work is not open source, I'm always happy to chat about my experiences and learnings. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ryan-allred/) or [Twitter](https://x.com/ryannallred).
 
  
+
+
+<!-- sails-git bridge smoke test ts=1785294327 -->
